@@ -2,7 +2,7 @@
 
 MoneyMatters is a financial tracking application built with React, TypeScript, and Vite. It helps users manage their income, expenses, and budget, and provides tools like a tax calculator and transaction history.
 
-## Live link - moneymatterss.netlify.app
+## Live link - moneymatterss.netlify.app/
 ## Getting Started
 
 ### Prerequisites
